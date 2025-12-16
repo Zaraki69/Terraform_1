@@ -3,7 +3,7 @@ variable "region" {
 }
 
 variable "ami_id" {
-  default = "ami-0a91cd140a1fc148a" // Ubuntu in Mumbai region
+  default = "ami-02b8269d5e85954ef" // Ubuntu in Mumbai region
 }
 
 variable "instance_type" {
